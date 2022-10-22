@@ -1,0 +1,8 @@
+{
+  "name": "AekDemo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fb0eed34"
+}

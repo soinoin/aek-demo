@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AekDemo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
